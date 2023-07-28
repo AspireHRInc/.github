@@ -8,7 +8,7 @@
 3. **KISS**: Keep It Super Simple - [Reference](https://dev.to/kwereutosu/the-k-i-s-s-principle-in-programming-1jfg)
 4. **Build-measure-learn feedback loop**: Be customer feedback oriented - [Reference](https://www.techtarget.com/whatis/definition/build-measure-learn-BML)
 
-## Repositories health
+## How to work with the repositories?
 
-1. We are following the [Google Coding style](https://github.com/google/styleguide)
+1. Follow the [Google Coding style](https://github.com/google/styleguide)
 2. Do not leave stale branches, delete them after merge
