@@ -10,4 +10,5 @@
 
 ## Repositories health
 
-1. Do not leave stale branches, delete them after merge
+1. We are following the [Google Coding style](https://github.com/google/styleguide)
+2. Do not leave stale branches, delete them after merge
